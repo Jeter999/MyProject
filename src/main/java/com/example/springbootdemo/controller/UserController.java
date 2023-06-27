@@ -19,6 +19,7 @@ public class UserController {
         List<User> list = new ArrayList<>();
         list=userservice.findAll();
         System.out.println("dddd");
+        System.out.println("zzzzz");
         return list;
     }
 }
