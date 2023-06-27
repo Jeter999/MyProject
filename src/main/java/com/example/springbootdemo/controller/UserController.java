@@ -20,7 +20,7 @@ public class UserController {
         list=userservice.findAll();
         System.out.println("dddd");
         System.out.println("zzzzz");
-        System.out.println("lllll");
+        System.out.println("jjj");
         return list;
     }
 }
